@@ -11,9 +11,9 @@ Contact Information: Displays the restaurant's contact details.
 Sweet Alerts: Attractive pop-up alerts for user actions.
 
 <h2>Example Screenshots:</h2>
-![Screenshot of Reservation Page](https://github.com/MattGaviria/little-lemmon/raw/main/public/main1.png)
-![Screenshot of Reservation Page](https://github.com/MattGaviria/little-lemmon/raw/main/public/orderconfirmed.png)
-![Screenshot of Reservation Page](https://github.com/MattGaviria/little-lemmon/raw/main/public/mobile1.png)
+![Screenshot of Main Page](https://github.com/MattGaviria/little-lemmon/raw/main/public/main1.png)
+![Screenshot of Order Confirmation Page](https://github.com/MattGaviria/little-lemmon/raw/main/public/orderconfirmed.png)
+![Screenshot of Mobile Page](https://github.com/MattGaviria/little-lemmon/raw/main/public/mobile1.png)
 
 <h2>Technologies Used:</h2>
 React: The core JavaScript library used to build the interactive user interface.
