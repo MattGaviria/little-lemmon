@@ -27,7 +27,7 @@ function Menu() {
   return (
     <div className="menu-container">
         <div className="menu-header">
-            <h2>This weeks specials!</h2>
+            <h2>This week specials:</h2>
             <button>Order Online</button>
         </div>
 

@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+Little Lemon - Restaurant Booking Website
+This is the final project for the Meta Front-End Web Development Professional Certificate on Coursera. In this certificate, I learned how to use React, HTML, CSS, JavaScript, version control with Git, and some UX/UI basics. Most of these skills have been applied to this final project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project is a website for a restaurant called Little Lemon. The website allows users to:
 
-## Available Scripts
+Check the menu
 
-In the project directory, you can run:
+View contact information
 
-### `npm start`
+Book a table in advance
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project was built using React and CSS, and I also used SweetAlert2 for nice-looking pop-up alerts.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Features
+Menu: View a list of food items offered by the restaurant.
 
-### `npm test`
+Reservations: Allows users to select a date, time, and number of guests to reserve a table.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Contact Information: Displays the restaurant's contact details.
 
-### `npm run build`
+Sweet Alerts: Attractive pop-up alerts for user actions.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Usage
+Home Page: This is where the user can see the restaurant's branding and a call-to-action button to reserve a table.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Menu Page: Users can view the weekly specials offered by the restaurant.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Reservation Page: Users can select a date, time, number of guests, and occasion to reserve a table.
 
-### `npm run eject`
+Example Screenshots:
+![Screenshot of Reservation Page](./src/assets/main1.png)
+![Screenshot of Reservation Page](./src/assets/orderconfirmed.png)
+![Screenshot of Reservation Page](./src/assets/mobile1.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Technologies Used
+React: The core JavaScript library used to build the interactive user interface.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+CSS: Used to style the app.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+SweetAlert2: Used for creating pop-up alerts that are visually appealing.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+JavaScript: For interactivity, form validation, and logic.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Git: For version control throughout the development process.
